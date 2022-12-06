@@ -17,3 +17,16 @@
 .discography img {
   margin-top: 10px;
 }
+
+Whateverdiv {
+  width: 50%;
+}
+.video {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+
+@media only screen and (max-width: 600px) {
+  .discography {
+  }
+}
